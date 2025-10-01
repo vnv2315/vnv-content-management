@@ -5,7 +5,7 @@ A full-stack MERN application built as part of the Backend Intern Assignment. It
 
 ## 🚀 Live Link
 
-[View Live Project](https://your-live-project-link.com)
+[View Live Project](https://vnv-content-management.vercel.app/)
 
 ---
 
