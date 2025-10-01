@@ -12,9 +12,9 @@ A full-stack MERN application built as part of the Backend Intern Assignment. It
 ## 📂 Project Structure
 
 ```
-project-root/
+vnv-content-management/
 │
-├── backend/          # Express + MongoDB + JWT + Role-based auth
+├── server/          # Express + MongoDB + JWT + Role-based auth
 │   ├── models/
 │   ├── config/
 │   ├── controllers/
@@ -23,7 +23,7 @@ project-root/
 │   ├── .env.example
 │   └── README.md
 │
-├── frontend/         # React + Vite + Tailwind
+├── client/         # React + Vite + Tailwind
 │   ├── src/
 │   ├── .env.example
 │   └── README.md
@@ -107,7 +107,7 @@ project-root/
 
 ```bash
 git clone https://github.com/vnv2315/vnv-content-management.git
-cd project-root
+cd vnv-content-management
 ```
 
 ---
@@ -117,7 +117,7 @@ cd project-root
 Navigate to backend folder:
 
 ```bash
-cd backend
+cd server
 npm install
 ```
 
@@ -134,7 +134,7 @@ ADMIN_PASSWORD=supersecret
 Run backend:
 
 ```bash
-npm run dev
+npm run server
 ```
 
 **Backend runs on:** `http://localhost:5000`
@@ -216,7 +216,7 @@ npm run dev
 ## 👨‍💻 Author
 
 **Vishnu N V**  
-3rd Year Mechanical Engineering, AIT Pune
+BE, AIT Pune
 
 - Full-stack MERN Developer
 - Passionate about scalable backend systems
