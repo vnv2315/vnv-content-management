@@ -1,6 +1,6 @@
 # 🚀 MERN Content Management System
 
-A full-stack MERN application built as part of the Backend Intern Assignment. It provides user authentication, admin portal, and content CRUD APIs, with a responsive React + Tailwind frontend.
+A full-stack MERN application that provides user authentication, admin portal, and content CRUD APIs, with a responsive React + Tailwind frontend.
 
 
 ## 🚀 Live Link
